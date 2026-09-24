@@ -1,0 +1,7 @@
+"cliente_id","razon_social","cuit","provincia","localidad","hectareas_totales","segmento_crm","fecha_alta"
+1,"Agropecuaria El Sol S.A.","30-71123456-8","Santa Fe","Venado Tuerto",2500.00,"Gold","2025-09-10"
+2,"Estancia Don Pedro SRL","30-65432187-9","Córdoba","Marcos Juárez",1800.00,"Silver","2025-10-01"
+3,"Los Grobo Campos S.A.","30-88991122-3","Buenos Aires","Pergamino",4200.00,"Gold","2025-10-15"
+4,"La Bellaca Agropress","30-55443322-1","Santa Fe","Rafaela",950.00,"Bronze","2025-11-05"
+5,"Agrícola Del Sur","30-99887766-5","Buenos Aires","Tandil",3100.00,"Gold","2025-11-20"
+6,"Manantiales del Oeste","30-11223344-6","Córdoba","Río Cuarto",1200.00,"Silver","2026-01-10"
